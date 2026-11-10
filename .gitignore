@@ -13,3 +13,15 @@ PostProcessingToolbox/__pycache__/
 figures_2.zip
 __pycache__/
 FINAL_INTERNSHIP_REPORT.md
+# Local files
+/ttyAMA10
+/ServerClientBB84/RBpi/bb84_lora_integration.zip
+.venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+*.pem
+*.key
+private_keys/
+secrets/
